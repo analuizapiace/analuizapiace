@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🩷🌷
 
-Meu nome é Ana Lulu 
+Meu nome é Ana Lulu!
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
